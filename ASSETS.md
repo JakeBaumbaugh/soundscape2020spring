@@ -1,10 +1,10 @@
-_Self-sourced sounds:_
+_Created sounds:_
 
 - Dialogue
 - Rustling / Manipulating various objects
 - Some possible metallic sound effects
 
-_Outsourced sounds:_
+_Repurposed sounds:_
 
 - Airlocks
 - Hydraulic doors
