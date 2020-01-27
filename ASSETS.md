@@ -7,6 +7,9 @@ _Created sounds:_
 _Repurposed sounds:_
 
 - Airlocks
+- Alarm Clock
+  - ZapSlat Alarm - https://www.zapsplat.com/music/digital-alarm-clock-tone-2/ - Standard License
+  - ZapSplat Click - https://www.zapsplat.com/music/alarm-clock-large-snooze-button-press-2/ - Standard License
 - Hydraulic doors
   - John J Door open - https://www.zapsplat.com/music/science-fiction-spacecraft-door-open-with-air-release/ - CC0
   - John J Door close - https://www.zapsplat.com/music/science-fiction-spacecraft-door-close/ - CC0
