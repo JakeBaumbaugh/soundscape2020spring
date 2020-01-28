@@ -8,12 +8,12 @@ _Created Sounds:_
 
 _Outsourced Sound Effects:_
 
-- Digital alarm clock tone 2 - ZapSplat - https://www.zapsplat.com/music/digital-alarm-clock-tone-2/ - CC-BY
-- Alarm clock large snooze button press 2 - ZapSplat - https://www.zapsplat.com/music/alarm-clock-large-snooze-button-press-2/ - CC-BY
+- Digital alarm clock tone 2 - ZapSplat - https://www.zapsplat.com/music/digital-alarm-clock-tone-2/ - [ZapSplat Standard License](https://www.zapsplat.com/license-type/standard-license/)
+- Alarm clock large snooze button press 2 - ZapSplat - https://www.zapsplat.com/music/alarm-clock-large-snooze-button-press-2/ - [ZapSplat Standard License](https://www.zapsplat.com/license-type/standard-license/)
 - file cabinet metal open close drawer close various - kyles - https://freesound.org/people/kyles/sounds/454013/ - CC0
-- Plastic electrical device, power switch, button, press on, off 8 - ZapSplat - https://www.zapsplat.com/music/plastic-electrical-device-power-switch-button-press-on-off-8/ - CC-BY
+- Plastic electrical device, power switch, button, press on, off 8 - ZapSplat - https://www.zapsplat.com/music/plastic-electrical-device-power-switch-button-press-on-off-8/ - [ZapSplat Standard License](https://www.zapsplat.com/license-type/standard-license/)
 - cross-trainer piezo - Yuval - https://freesound.org/people/Yuval/sounds/209454/ - CC0
-- Lego, Duplo building blocks clipping together and pulling apart 1 - ZapSplat - https://www.zapsplat.com/music/lego-duplo-building-blocks-clipping-together-and-pulling-apart-1/ - CC-BY
+- Lego, Duplo building blocks clipping together and pulling apart 1 - ZapSplat - https://www.zapsplat.com/music/lego-duplo-building-blocks-clipping-together-and-pulling-apart-1/ - [ZapSplat Standard License](https://www.zapsplat.com/license-type/standard-license/)
 - Science fiction, spacecraft door open with air release - John J - https://www.zapsplat.com/music/science-fiction-spacecraft-door-open-with-air-release/ - CC0
 - Science fiction, spacecraft door close - John J - https://www.zapsplat.com/music/science-fiction-spacecraft-door-close/ - CC0
 
