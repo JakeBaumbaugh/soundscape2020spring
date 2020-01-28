@@ -1,4 +1,4 @@
-** A Typical Day...?
+## A Typical Day...?
 
 _Created Sounds:_
 
