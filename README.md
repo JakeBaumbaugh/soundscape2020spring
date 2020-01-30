@@ -1,3 +1,5 @@
+## A Typical Day...?
+
 ** I am using this document as my "journal" for the project. Updates found here.
 
 **1/28/20 Update** - It is very late, but I have finished my first full draft and am prepared for class in about 12 hours. I have put a lot of work into this project, and likewise, I have put a lot of procrastination into it as well. That said, I am actually very happy about the result. So, here's an introduction:
