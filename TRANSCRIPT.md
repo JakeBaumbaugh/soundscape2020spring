@@ -10,7 +10,7 @@
 
 *Rolling metal cabinet door opens*
 
-"Sunday, Monday, Tuesday, Wednesday... okay, Thursday, there it is."
+**Astronaut** "Sunday, Monday, Tuesday, Wednesday... okay, Thursday, there it is."
 
 *Rolling metal cabinet door shuts*
 
@@ -18,25 +18,25 @@
 
 *Background music jumps to right ear*
 
-"Foxtrot-Romeo-7 to Home, checking in for diagnostics."
+**Astronaut** "Foxtrot-Romeo-7 to Home, checking in for diagnostics."
 
-"Copy that. Read out the number on display Hotel-4."
+**Mission Control Operator** "Copy that. Read out the number on display Hotel-4."
 
-"Uh, 56.3."
+**Astronaut** "Uh, 56.3."
 
-"Press November-5. And, uh, read the number again."
+**Mission Control Operator** "Press November-5. And, uh, read the number again."
 
-*Button click* "52.9"
+*Button click* **Astronaut** "52.9"
 
-"Uh, read out display Charlie-9."
+**Mission Control Operator** "Uh, read out display Charlie-9."
 
-"Uhh, 65.1."
+**Astronaut** "Uhh, 65.1."
 
-"And press Whiskey-11."
+**Mission Control Operator** "And press Whiskey-11."
 
-*Button click* "71.2."
+*Button click* **Astronaut** "71.2."
 
-"Diagnostics complete. Carry on."
+**Mission Control Operator** "Diagnostics complete. Carry on."
 
 *Background music jumps to left ear*
 
@@ -44,19 +44,19 @@
 
 *Maching and breathing ends, background music jumps back to center*
 
-"Tethering now. Stand by."
+**Astronaut** "Tethering now. Stand by."
 
 *Handheld clicking noises*
 
-"Okay, tethered on. Awaiting instruction."
+**Astronaut** "Okay, tethered on. Awaiting instruction."
 
-"Are you ready?"
+**Mission Control Operator** "Are you ready?"
 
-*Exhale* "As I'll ever be."
+**Astronaut** *Exhale* "As I'll ever be."
 
-"You're all clear."
+**Mission Control Operator** "You're all clear."
 
-(hesitantly) "Copy that."
+**Astronaut** (hesitantly) "Copy that."
 
 *Heavy breath in anticipation*
 
