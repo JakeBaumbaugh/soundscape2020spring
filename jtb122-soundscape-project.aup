@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="jtb122-soundscape-project_data" version="1.3.0" audacityversion="2.3.3" sel0="79.5517063006" sel1="116.8182082709" vpos="0" h="0.0000000000" zoom="19.0536104996" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="jtb122-soundscape-project_data" version="1.3.0" audacityversion="2.3.3" sel0="104.5614058400" sel1="106.9374058400" vpos="0" h="0.0000000000" zoom="10.0046168599" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ARTIST" value="Jake Baumbaugh"/>
 		<tag name="TITLE" value="A Typical Day...?"/>
-		<tag name="Interpreted, remixed, or otherwise modified by" value=""/>
 		<tag name="YEAR" value="2020"/>
+		<tag name="Interpreted, remixed, or otherwise modified by" value=""/>
 		<tag name="Copyright message" value=""/>
 	</tags>
 	<wavetrack name="Music Left" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="0.158489" pan="-1.0" colorindex="0">
@@ -491,7 +491,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Airlock Open" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="-0.7" colorindex="0">
+	<wavetrack name="Airlock Open" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="104.56140584" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="114048">
 				<waveblock start="0">
@@ -501,7 +501,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Airlock Close" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Airlock Close" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="0.281838" pan="-1.0" colorindex="0">
 		<waveclip offset="114.44219920" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="104782">
 				<waveblock start="0">
