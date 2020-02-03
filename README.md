@@ -1,6 +1,12 @@
 ## A Typical Day...?
 
-** I am using this document as my "journal" for the project. Updates found here.
+This repository contains my soundscape narrative project for ENGCMP 0610 Composing Digital Media at the University of Pittsburgh. I would advise you to just listen to the soundscape with no summary, but if you insist:
+
+The narrative shows just a few of the daily activities an astronaut might encounter, some of which are similar to here on Earth (eating, exercising), and some of which definitely are not (diagnostic checks). The "grand finale" is the astronaut going on a spacewalk for the very first time, a monumental event for anyone.
+
+I hope you enjoy!
+
+**I am using this document as my "journal" for the project. Updates found here.**
 
 **1/28/20 Update** - It is very late, but I have finished my first full draft and am prepared for class in about 12 hours. I have put a lot of work into this project, and likewise, I have put a lot of procrastination into it as well. That said, I am actually very happy about the result. So, here's an introduction:
 
